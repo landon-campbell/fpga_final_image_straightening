@@ -1,1 +1,1 @@
-# fpga_final_image_straightening
+# FPGA Final Project of 3D Image Straightening
